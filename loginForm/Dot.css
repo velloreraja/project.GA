@@ -1,0 +1,39 @@
+/* 
+.btn-primary{
+    box-shadow: none !important;
+}
+carousel part 
+.carousel{
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+} */
+
+.carousel-inner > .carousel-item > img {
+    height: 85vh;
+    width: 100% !important;
+    margin: auto;
+    min-height: fit-content;
+    object-fit: cover;
+  }
+.carousel-caption{
+    position: absolute !important;
+    top: 35%;
+   
+}
+.part2 img{
+    height: 400px;
+    max-height: 400px;
+}
+
+/* cards section */
+.card-text{
+    font-size: 16px;
+}
+.thumbnail img{
+    height: 200px;
+    min-height: 100%;
+}
+  /* *************
+  .progress{
+      margin-bottom: 1rem;
+  } */
